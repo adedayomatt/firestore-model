@@ -1,6 +1,6 @@
 {
   "name": "@adedayomatthews/firestore-model",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Firebase firestore database model",
   "main": "index.js",
   "repository": {
