@@ -1,0 +1,21 @@
+{
+  "name": "@adedayomatthews/firestore-model",
+  "version": "1.0.0",
+  "description": "Firebase firestore database model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "model",
+    "mvc"
+  ],
+  "author": "Adedayo Matthews",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "nanoid": "^5.0.3"
+  }
+}
