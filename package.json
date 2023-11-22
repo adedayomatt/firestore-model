@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "Firebase firestore database model",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adedayomatt/firestore-model.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +21,9 @@
   "dependencies": {
     "moment": "^2.29.4",
     "nanoid": "^3.1.23"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/adedayomatt/firestore-model/issues"
+  },
+  "homepage": "https://github.com/adedayomatt/firestore-model#readme"
 }
